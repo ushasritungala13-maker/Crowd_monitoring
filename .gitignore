@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+runs/
+*.mp4
+*.zip
+crowdflow_users.json
